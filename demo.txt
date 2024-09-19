@@ -1,0 +1,22 @@
+
+
+// branch protection rules 
+// git/github/gitlab
+//divergent branches
+//hotfix, bufix, release
+
+base branch - main/master
+
+
+main->stage->feature/intial-setup
+stage->feature/feature-name2
+stage->feature/feature-name3
+
+
+after merging all the sub-branches back to the stage, then
+
+main->release
+
+all stage changes to release
+
+release->main
