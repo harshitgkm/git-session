@@ -20,3 +20,10 @@ main->release
 all stage changes to release
 
 release->main
+
+
+** git alternatives : AWS CodeCommit, Helix Core, Azure DevOps Server
+** Top GitHub Enterprise Alternatives : GitLab, Bitbucket
+** git vs github : Git is a software.	GitHub is a service.
+** git pull vs fetch : https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Git-pull-vs-fetch-Whats-the-difference 
+** git stash : https://www.youtube.com/watch?v=ts3qntjhgxI
