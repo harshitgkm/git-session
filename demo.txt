@@ -27,3 +27,7 @@ release->main
 ** git vs github : Git is a software.	GitHub is a service.
 ** git pull vs fetch : https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Git-pull-vs-fetch-Whats-the-difference 
 ** git stash : https://www.youtube.com/watch?v=ts3qntjhgxI
+
+
+
+new branch -> add changes -> git add -> git commit -> git checkout to previous branch -> git merge newBranch
